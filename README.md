@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋
+🧮 I am a fourth year Applied Mathematics student.  
+💻 I’m currently learning XAI methods.  
+📝 I am co-author of the research paper "The effect of Sunday shopping restriction on urban mobility patterns in the light of questionnaire research and ITS data" -2022     
 
 <!--
 **domkoz/domkoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
