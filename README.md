@@ -1,11 +1,11 @@
 
-- 💻Junior Machine Learning Developer at LG Energy Solution.
+- Junior Machine Learning Developer at LG Energy Solution.
 
-- 📝 Co-author of the research paper "The effect of Sunday shopping restriction on urban mobility patterns in the light of questionnaire research and ITS data" -2022     
+-  Co-author of the research paper "The effect of Sunday shopping restriction on urban mobility patterns in the light of questionnaire research and ITS data" -2022     
 
-- 🧮 Fitth year Applied Mathematics student. 
+-  Fitth year Applied Mathematics student. 
 
-- 🌱 Currently learning about XAI methods.
+-  Currently learning about XAI methods.
 
 <!--
 **domkoz/domkoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
